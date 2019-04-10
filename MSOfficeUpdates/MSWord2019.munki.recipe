@@ -37,7 +37,7 @@
         </dict>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.charlesmisson.download.MSWord2019</string>
+    <string>com.github.charlesmisson.download.MSOutlook2019</string>
     <key>Process</key>
     <array>
         <dict>
