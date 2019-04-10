@@ -41,7 +41,7 @@ PROD_DICT = {
     'Excel': {'id': 'XCEL2019', 'path': '/Applications/Microsoft Excel.app'},
     'OneNote': {'id': 'ONMC2019', 'path': '/Applications/Microsoft OneNote.app'},
     'Outlook': {'id': 'OPIM2019', 'path': '/Applications/Microsoft Outlook.app'},
-    'PowerPoint': {'id': 'PPT2019', 'path': '/Applications/Microsoft PowerPoint.app'},
+    'PowerPoint': {'id': 'PPT32019', 'path': '/Applications/Microsoft PowerPoint.app'},
     'Word': {'id': 'MSWD2019', 'path': '/Applications/Microsoft Word.app'},
     'SkypeForBusiness': {'id': 'MSFB2019', 'path': '/Applications/Skype for Business.app'},
     'AutoUpdate': {
