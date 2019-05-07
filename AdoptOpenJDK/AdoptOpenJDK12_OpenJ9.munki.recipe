@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.munki.AdoptOpenJDK12_OpenJ9</string>
+	<string>com.github.charlesmisson.charlesmisson-recipes.munki.AdoptOpenJDK12_OpenJ9</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
