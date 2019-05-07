@@ -12,9 +12,9 @@
 		<dict>
 			<key>catalogs</key>
 			<array>
-				<string>testing</string>
+				<string>production</string>
 			</array>
-            <key>Description</key>
+            <key>description</key>
             <string>AdoptOpenJDK 8 HotSpot</string>
 			<key>category</key>
 			<string>Developer Tools</string>
