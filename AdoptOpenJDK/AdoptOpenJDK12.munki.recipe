@@ -31,7 +31,7 @@
 		</dict>
 	</dict>
 	<key>ParentRecipe</key>
-	<string>com.github.charlesmisson.recipes.download.AdoptOpenJDK12</string>
+	<string>com.github.charlesmisson.recipes.download.AdoptOpenJDK12_Signed</string>
     <key>Process</key>
         <array>
             <dict>

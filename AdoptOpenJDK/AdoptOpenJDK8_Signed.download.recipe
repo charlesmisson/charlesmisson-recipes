@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the current release version of AdoptOpenJDK 8 HotSpot.</string>
 	<key>Identifier</key>
-	<string>com.github.charlesmisson.recipes.download.AdoptOpenJDK8</string>
+	<string>com.github.charlesmisson.recipes.download.AdoptOpenJDK8_Signed</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
